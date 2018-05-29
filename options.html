@@ -1,25 +1,51 @@
 <!DOCTYPE html>
 
 
-
-<html>
-
 <head>
+    <title>Block Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
     <style>
-        button {
-            height: 30px;
-            width: 30px;
-            outline: none;
-            margin: 10px;
+        #header {
+            text-align: center;
+            height:100px;
+            witdh:1360px;
+            background-color: white;
+
         }
+        #content {
+            height: 200px;
+            width: 500px;
+            background: red ;
+            margin-top:100px;
+            margin-left: 300px ;
+        }
+		button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+	border-radius: 12px;
     </style>
 </head>
 
-<body>
-<input type="text" id="EnterUrl">
-<button id="Save">Save</button>
-
-<script src="options.js">
+<body style="background-color:red;">
+    <div id= "header" >
+    <h4 ><font size="8" color="black">BLOCK MASTER 5000</font> </h4>
+        </div>
+<div id ="content"  >
+     <font size="8" color="black">Sisestage URL siia!</font> <input type="text" id="EnterUrl" placeholder="URL" align="center">
+	<button id="Save">Save</button>
+	<script src="options.js">
 </script>
+           
+           
+
+        </form>
+        </div>
 </body>
-</html>
