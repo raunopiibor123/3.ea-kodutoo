@@ -1,5 +1,35 @@
 # 3. kodutöö – Chrome extension
 
+Liikmed:
+Rauno Piibor
+Taavi Meinberg
+Simon Berner
+
+Info:
+We made extension which blocks unwanted webpage. You can enter the webpage URL in option page.
+
+
+Here are extension options
+![Extension options](https://puu.sh/AvJjU/02197e49c8.png)
+
+
+Here is options.html where you can enter the webpage URL what u want to block
+![Options.html](https://puu.sh/AvJpY/d3d405368a.png)
+
+Here is the alert which pops up when you enter the webpage what is blocked
+![Block message](https://puu.sh/AvJrY/0616047374.png)
+
+
+
+
+
+
+
+
+
+
+
+
 Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetud. Soovi korral võib ka teha Firefox'ile.
 
 **Töö on soovitatav teha kahekesi!**
@@ -18,3 +48,7 @@ Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetu
 
 * Chrome extension API [JavaScript APIs](https://developer.chrome.com/extensions/api_index/)
 * Chrome extension'ite näited [Sample Extensions](https://developer.chrome.com/extensions/samples/)
+
+
+
+
