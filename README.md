@@ -6,7 +6,7 @@ Taavi Meinberg
 Simon Berner
 
 Info:
-We made extension which blocks unwanted webpage. You can enter the webpage URL in option page.
+We made extension which blocks unwanted webpage. You can enter the webpage URL in option page. After you have entered the URL what you want to block then the extension sends user to google.com.
 
 
 Here are extension options
@@ -21,7 +21,8 @@ Here is the alert which pops up when you enter the webpage what is blocked
 
 
 
-
+Lisainfo repositooriumi kohta.
+Meil tekkis väike probleem repositooriumiga ning me pidime selle uuesti looma ning failid ümber tõstma. Selle tõttu kadusid ära suur osa committe mis olid tehtud. Loodan, et sellest suurt probleemi ei teki. 
 
 
 
